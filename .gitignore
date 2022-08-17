@@ -1,5 +1,6 @@
 git rm --cached config.py
 config.py
+https://github.com/veraniacalderon/Movies-ETL/blob/ef1eba36e6b7b9080e897efa81c096216cc64ee8/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
